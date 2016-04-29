@@ -1,8 +1,8 @@
 package mint
 
 import (
-	"codeJam/CoinJam/num"
 	"fmt"
+	"github.com/GwiBo/go/CoinJam/num"
 	"log"
 )
 

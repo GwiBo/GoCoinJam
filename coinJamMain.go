@@ -2,8 +2,8 @@ package main
 
 import (
 	"bufio"
-	"codeJam/CoinJam/mint"
 	"fmt"
+	"github.com/GwiBo/go/CoinJam/mint"
 	"log"
 	"os"
 	"strconv"
