@@ -3,7 +3,7 @@ package main
 import (
 	"bufio"
 	"fmt"
-	"github.com/GwiBo/go/CoinJam/mint"
+	"github.com/GwiBo/GoCoinJam/mint"
 	"log"
 	"os"
 	"strconv"

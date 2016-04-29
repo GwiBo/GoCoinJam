@@ -2,7 +2,7 @@ package mint
 
 import (
 	"fmt"
-	"github.com/GwiBo/go/CoinJam/num"
+	"github.com/GwiBo/GoCoinJam/num"
 	"log"
 )
 
